@@ -1,0 +1,2 @@
+(this.webpackJsonpreact_default_assembly=this.webpackJsonpreact_default_assembly||[]).push([[0],{3:function(e,t,n){e.exports=n(8)},8:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a),l=n(2);var c=function(){return r.a.createElement(r.a.Fragment,null,r.a.createElement("p",null,"HELLO WORLD!"))};n.n(l).a.render(r.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.0ea563d2.chunk.js.map
